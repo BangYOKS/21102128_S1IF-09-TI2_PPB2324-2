@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495968902852",
+    "project_id": "fir-yoko",
+    "storage_bucket": "fir-yoko.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495968902852:android:a6af0e22e3b5530cc0b391",
+        "android_client_info": {
+          "package_name": "com.example.praktikum_firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoY9RSPmiRLFVdt1V9FkZ9xoof6Wq8Log"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
